@@ -27,7 +27,7 @@ Replacement power regulator board for the Game Boy Color that has a programable 
 #### [Rains GB Turbo](https://github.com/nataliethenerd/RainsGBTurbo)
 Flex PCB is made for a GBC PCB to add a turbo button mode to the B button. You could rework the PCB to make it work on any other button. This one was made with Metroid II in mind.
 
-#### [GBC DC Pixel](https://github.com/nataliethenerd/USBC_ColorOrPocket)
+#### [USB C board](https://github.com/nataliethenerd/USBC_ColorOrPocket)
 USB C PCB for the Game Boy Color or Pocket (or both). Mostly for LiPo mods.
 
 #### [GameBoy direction PCBs](https://github.com/nataliethenerd/GameBoy-directionPCBs)
