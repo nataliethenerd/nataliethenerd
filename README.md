@@ -33,5 +33,6 @@ USB C PCB for the Game Boy Color or Pocket (or both). Mostly for LiPo mods.
 #### [GameBoy direction PCBs](https://github.com/nataliethenerd/GameBoy-directionPCBs)
 Open Source direction PCBs for the Game Boy line. These are common ground PCBs that can be used to create mods inside the various Game Boy Shells.
 
-
+#### [GBA button replacement PCB ](https://github.com/nataliethenerd/GBAButtonPadReplacement)
+Open source replacement PCBs for the Game Boy Advance button contacts. 
 
