@@ -9,7 +9,7 @@ Check out my [WIKI](https://wiki.nataliethenerd.com/) - my board scans in an eas
 
 ## Game Boy Projects:
 
-#### [YAPoco - Yet another Pocket Color](https://github.com/nataliethenerd/LoCo-Light-Color)
+#### [YAPoco - Yet another Pocket Color](https://github.com/nataliethenerd/YAPoco)
 Open source PCB that allows you to transfer the original components from a Game Boy Color PCB to a new PCB that fits in a Game Boy Pocket shell 
 
 #### [LoCo - Light Color](https://github.com/nataliethenerd/LoCo-Light-Color)
